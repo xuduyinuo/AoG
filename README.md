@@ -39,7 +39,7 @@ python eval.py AoG_webqsp_qwen-turbo.jsonl # the result file
 
 ### Performance comparison of AoG
 
-![Performance_comparison_table](assets/performance_comparison_table.png)
+![Performance_comparison_table](assets/Performance_comparison_table.png)
 
 ### Ablation study of AoG
 
